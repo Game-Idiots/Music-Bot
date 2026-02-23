@@ -5,7 +5,7 @@
 
 ## Use our hosted Version
 
-# [Invite Bot]() Coming soon
+# [Invite Bot]() (Coming soon)
 
 ## Acknowledgments
 
@@ -77,5 +77,6 @@ If you are using our hosted or deployed version, request the `DISCORD_TOKEN` and
       <i>Lead Developer</i><br />
       <a href="https://github.com/atfam">GitHub</a>
     </td>
+
 
 
