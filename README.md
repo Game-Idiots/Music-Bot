@@ -1,11 +1,13 @@
 # Music Bot
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+# Feel free to Contributors :D
+
 ## Use our hosted Version
 
 # [Invite Bot]()
 
 ## Acknowledgments
-
 
 ### Special Thanks
 
@@ -75,3 +77,4 @@ If you are using our hosted or deployed version, request the `DISCORD_TOKEN` and
       <i>Lead Developer</i><br />
       <a href="https://github.com/atfam">GitHub</a>
     </td>
+
