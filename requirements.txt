@@ -1,0 +1,6 @@
+discord.py>=2.6.4
+python-dotenv>=1.2.1
+yt-dlp>=2026.2.4
+pynacl>=1.6.1
+static-ffmpeg>=3.0
+requests>=2.32.5
