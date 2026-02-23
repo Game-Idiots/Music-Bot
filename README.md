@@ -62,7 +62,7 @@ docker run --env-file .env music-bot
 
 Thanks to all the amazing contributors who have helped make this project better!
 
-[![Contributors](https://github.com/Game-Idiots/Music-Bot/graphs/contributors)](https://github.com/username/repo/graphs/contributors)
+[![Contributors](https://github.com/Game-Idiots/Music-Bot/graphs/contributors)](https://github.com/Game-Idiots/Music-Bot/graphs/contributors)
 
 ## Our version
 
@@ -77,6 +77,7 @@ If you are using our hosted or deployed version, request the `DISCORD_TOKEN` and
       <i>Lead Developer</i><br />
       <a href="https://github.com/atfam">GitHub</a>
     </td>
+
 
 
 
