@@ -74,5 +74,4 @@ If you are using our hosted or deployed version, request the `DISCORD_TOKEN` and
       <b>atfam</b><br />
       <i>Lead Developer</i><br />
       <a href="https://github.com/atfam">GitHub</a>
-
     </td>
