@@ -64,11 +64,7 @@ Thanks to all the amazing contributors who have helped make this project better!
 
 [![Contributors](https://github.com/Game-Idiots/Music-Bot/graphs/contributors)](https://github.com/Game-Idiots/Music-Bot/graphs/contributors)
 
-## Our version
-
-If you are using our hosted or deployed version, request the `DISCORD_TOKEN` and any other environment values from the team, then follow the same run steps above.
-
-##  Team
+## Team
 <table>
   <tr>
     <td align="center">
@@ -77,6 +73,7 @@ If you are using our hosted or deployed version, request the `DISCORD_TOKEN` and
       <i>Lead Developer</i><br />
       <a href="https://github.com/atfam">GitHub</a>
     </td>
+
 
 
 
